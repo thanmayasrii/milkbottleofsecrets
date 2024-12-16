@@ -8,4 +8,4 @@ Dr. Wick’s investigations revealed unethical practices within the company’s 
 I know you are searching for the company's name.."Observation is key, and every letter holds a purpose."
 Thank you!!
 
-NOTE:While submitting the Comapny's name keep first and last letter Capital and remaining in lowercase.
+NOTE:While submitting the Company's name keep first and last letter Capital and remaining in lowercase.
