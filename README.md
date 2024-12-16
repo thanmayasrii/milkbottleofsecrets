@@ -1,8 +1,9 @@
 # milkbottleofsecrets
-🎉 Congratulations, Detective!
+🎉 **Congratulations, Sherlock!**
 
-You've successfully uncovered **Dr. Wick's Confidential Report on the Milk Powder Company**.
+You've successfully uncovered Dr. Wick's Confidential Report on the Milk Powder Company. This detailed report unveils alarming truths..
 
-🕵️‍♂️ The secrets you've found reveal crucial details about the product's production, company data, and research findings.
-
-🔍 Stay vigilant, and share this information wisely. Remember, secrecy and confidentiality are key!
+🕵️‍♂️ **The Findings**  
+Dr. Wick’s investigations revealed unethical practices within the company’s Logistics, Accounting, Compliance, Testing and Operations.
+I know you are searching for the company's name..Read Findings again
+Thank you!!
